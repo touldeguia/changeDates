@@ -1,3 +1,3 @@
 # changeDates
 
-Programe will search the directory and change the date format from US to EU format.
+Program will search the directory and change the date format from US to EU format.
